@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
-  <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> Hello World <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> Hi Here! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm K. AGGOUN, Engineering Data :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
@@ -28,12 +28,11 @@
     
  <h2 align="left">👨🏻‍💻 About Me:</h2>
  
-- :computer: I'm currently working on MERN Stack
-- :hourglass_flowing_sand:  Exploring Microsoft Azure
+- :computer: I'm currently working at HI! Paris 
+- :hourglass_flowing_sand:  Exploring Cloud, Machine learning, Deep learning, Data, Web, ... soon more
 - :rocket: Always ready to collaborate 
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :trophy: Marathon - Paris 2018
+- :zap: Amateur : The mountain, it wins you <br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">:heart: Get the Futur You Want </h2>
